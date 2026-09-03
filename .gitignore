@@ -1,0 +1,28 @@
+# --- Compilados de Java ---
+*.class
+bin/
+build/
+out/
+target/
+
+# --- Eclipse ---
+.settings/
+.metadata/
+.recommenders/
+*.launch
+tmp/
+
+# --- IntelliJ / NetBeans / VS Code (por si acaso) ---
+.idea/
+*.iml
+nbproject/private/
+.vscode/
+
+# --- Sistema operativo ---
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# --- Logs y temporales ---
+*.log
+*~
